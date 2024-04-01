@@ -1,4 +1,4 @@
-# Data-Analyst-projects-
+# Data-Analyst-Portfolio-
 
 ## About
 Welcome to my portfolio! My name is Christian Johnson, and I've put together this collection to showcase my passion for data analysis and programming languages.
