@@ -1,8 +1,9 @@
 # Data-Analyst-projects-
 
 ## About
-I put this portfolio together To showcase what I've learned about Data Analysis programming languages. I graduated from
-West Chester Univeristy in May 2023 with a Bachelors degree in Economics. While I was in school I learned some of the basics
-of R and Python for Data Analysis along with classes in Accounting, Statistics, and Finance. I've taken classes that taught me 
-the basics of using Python and R for data analysis. Since I've graduated, I've taken online courses and recieved the Gogle Data Analyitics
-Certificate to hone my knowlege of things like SQL, R, Excel, and Tableau. If you are interested in reaching out you can contact me on LinkedIn.
+Welcome to my portfolio! My name is Christian Johnson, and I've put together this collection to showcase my passion for data analysis and programming languages.
+I graduated from West Chester University in May 2023 with a bachelor’s degree in economics. During my time at university, I delved into various aspects of data analysis, including coursework in Accounting, Statistics, and Finance. It was here that I first discovered my interest in utilizing programming languages like R and Python for data analysis purposes.
+Since graduating, I've been committed to furthering my skills and knowledge in the field. I've completed several online courses, including the Google Data Analytics Certificate program, where I gained expertise in SQL, R, Excel, and Tableau. These courses have allowed me to deepen my understanding of data analysis techniques and tools, enabling me to tackle complex analytical problems.
+If you'd like to connect or learn more about my background and experiences, feel free to reach out to me on LinkedIn. I'm always excited to engage with people and explore potential opportunities or discussion.
+Thank you for visiting my portfolio.
+
